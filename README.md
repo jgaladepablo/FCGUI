@@ -1,7 +1,9 @@
 # License
 
 Copyright (c) 2016, Nitai Steinberg
+
 Contributors: 2022, Julia Gala de Pablo (compatibility with Matlab 2020)
+
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
