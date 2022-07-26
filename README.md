@@ -1,4 +1,4 @@
-#License
+# License
 
 Copyright (c) 2016, Nitai Steinberg
 Contributors: 2022, Julia Gala de Pablo (compatibility with Matlab 2020)
@@ -26,11 +26,11 @@ CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
 ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
 POSSIBILITY OF SUCH DAMAGE.
 
-#Source
+# Source
 Source of the original software:
 https://uk.mathworks.com/matlabcentral/fileexchange/38080-flow-cytometry-gui-for-matlab?s_tid=mwa_osa_a
 
-#Requirements
+# Requirements
 Matlab 2020
 Image Processing Toolbox
 Statistics and Machine Learning Toolbox
